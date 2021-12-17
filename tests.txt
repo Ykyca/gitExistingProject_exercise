@@ -1,5 +1,5 @@
 tet1{
-this is test one
+CONFLICT is test CHANGED FOR Conflicr
 }
 
 
