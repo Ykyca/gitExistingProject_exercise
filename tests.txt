@@ -1,6 +1,6 @@
 tet1{
-MISSING trying to make a confl by PULLicr
-CONFLICT NOT HAPPENED THIS WAY
+hgfggfgfgfgngfr
+CONFLPULLAPPENED THIS WAY
 }
 
 
@@ -10,7 +10,7 @@ this is test TWO
 
 
 tet3{
-this is test PULL CONFL
+this giytgititty PULL CONFL
 }
 
 LAST TRY :'(
