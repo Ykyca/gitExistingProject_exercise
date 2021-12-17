@@ -1,5 +1,6 @@
 tet1{
 CONFLICT is test CHANGED FOR Conflicr
+CONFLICT NOT HAPPENED THIS WAY
 }
 
 
