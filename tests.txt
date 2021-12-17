@@ -1,5 +1,5 @@
 tet1{
-CONFLICT is test CHANGED FOR Conflicr
+MISSING trying to make a confl by PULLicr
 CONFLICT NOT HAPPENED THIS WAY
 }
 
@@ -10,7 +10,7 @@ this is test TWO
 
 
 tet3{
-this is test 333333333
+this is test PULL CONFL
 }
 
 LAST TRY :'(
